@@ -1,3 +1,5 @@
+[Back](index.md)
+
 Fireball Game
 - OD fireball more to go through JP's fireballs
 - Punish parry on M fireball with drive rush grab

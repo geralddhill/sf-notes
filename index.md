@@ -11,5 +11,5 @@ Shimmy timings
 Burnout checkmate situations
 
 # Characters:
-- [honda.md]
-- [jp.md]
+- [Honda](honda.md)
+- [JP](jp.md)

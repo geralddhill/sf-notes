@@ -10,9 +10,9 @@
 - Safejump setups
 
 # Characters:
-- [Alex](alex.md)
 - [A.K.I.](aki.md)
 - [Akuma](akuma.md)
+- [Alex](alex.md)
 - [Bison](bison.md)
 - [Blanka](blanka.md)
 - [Cammy](cammy.md)

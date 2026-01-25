@@ -1,14 +1,13 @@
 # Things to work on
 
-Anti airs
-
-Add walk forward into neutral arsenal
+- Anti airs
+- Add walk forward into neutral arsenal
 
 # Things to lab
 
-Shimmy timings
-
-Burnout checkmate situations
+- Shimmy timings
+- Burnout checkmate situations
+- Safejump setups
 
 # Characters:
 - [Alex](alex.md)

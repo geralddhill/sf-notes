@@ -1,15 +1,17 @@
-# Things to work on
+# Gerald's SF6 Notes
+
+## Things to work on
 
 - Anti airs
 - Add walk forward into neutral arsenal
 
-# Things to lab
+## Things to lab
 
 - Shimmy timings
 - Burnout checkmate situations
 - Safejump setups
 
-# Characters:
+## Characters:
 - [A.K.I.](aki.md)
 - [Akuma](akuma.md)
 - [Alex](alex.md)

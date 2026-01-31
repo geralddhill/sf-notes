@@ -3,13 +3,23 @@
 ## Things to work on
 
 - Anti airs
+- Stop going on auto and throwing fireball
+    - Represent other options in the M fireball range. s.MP is good since people like to walk forward and DI when expecting a M fireball
+- Work on OD fireball timings/pacing against zoners (Guile/JP)
 - Add walk forward into neutral arsenal
 
 ## Things to lab
 
-- Shimmy timings
 - Burnout checkmate situations
+- Learn proper oki setups and what options are available depending on the knockdown (stop making shit up)
+    - Specifically with drive rush and dash forward
+- Punishing parry on whiffed M fireball
 - Safejump setups
+
+### Character Specific
+
+- Learn to whiff punish scizor kick (Bison)
+- Learn to whiff punish JP (need to VOD review to see what move I should be looking out for)
 
 ## Characters:
 - [A.K.I.](aki.md)

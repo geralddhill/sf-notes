@@ -16,7 +16,6 @@
 - Look at meters more (figure out how to do that)
 
 
-
 ## Characters:
 - [A.K.I.](aki.md)
 - [Akuma](akuma.md)

@@ -4,13 +4,13 @@
 
 ### Primary Tasks
 
+- **Sometimes taking your turn back means moving a bit and blocking, not just pressing a button**
 - Learn more oki setups to keep pressure airtight
 - Practice shimmy setups to stop missing punishes
 - When practicing setups, include all possible options (do nothing, button, tech, delay button/tech, backdash, jump forward/back)
 - Recognize the health ranges you can kill from (bc you're Terry)
 
 ### Secondary Tasks
-- Continuously use more sMK and sHK (other moves like sLK to be added later)
 - Don't tunnel vision on one or two options in neutral. Incorporate sitting in one range and then moving into another.
 - Look for more opportunities to optimize combos to kill
 - Look at meters more (figure out how to do that)

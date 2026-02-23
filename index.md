@@ -5,12 +5,17 @@
 ### Primary Tasks
 
 - **Sometimes taking your turn back means moving a bit and blocking, not just pressing a button**
+- **Be more mindful on offense:** After blockstrings (after drive rush, during oki, etc) be mindful of the options your opponent is selecting (say it out loud)
+- **Be more mindful on defense:** On wakeup, take note of opponent's offensive choice during and slightly after oki.
+    - Walk forward a bit and block to build space on defense. **Don't just delay button after opponent's oki.**
+
+### Secondary Tasks
 - Learn more oki setups to keep pressure airtight
 - Practice shimmy setups to stop missing punishes
 - When practicing setups, include all possible options (do nothing, button, tech, delay button/tech, backdash, jump forward/back)
 - Recognize the health ranges you can kill from (bc you're Terry)
 
-### Secondary Tasks
+### Tertiary Tasks
 - Don't tunnel vision on one or two options in neutral. Incorporate sitting in one range and then moving into another.
 - Look for more opportunities to optimize combos to kill
 - Look at meters more (figure out how to do that)

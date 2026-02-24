@@ -1,5 +1,11 @@
 # Gerald's SF6 Notes
 
+## NON-NEGOTIABLE WARMUPS (10 times in a row both sides)
+- Midscreen route into lvl 3 (with quickburn)
+- Corner punish counter route into lvl 2
+- Heavy kick punish counter
+- Anti airs
+
 ## Things to work on
 
 ### Primary Tasks

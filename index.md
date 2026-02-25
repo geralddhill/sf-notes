@@ -10,6 +10,11 @@
 
 ### Primary Tasks
 
+- **Sometimes react to movement forward, not just a button**
+    - Covering: Reacting to forward movement with a button; Beats attacking
+    - Attacking: Walking up and pressing a button; Beats whiff punishing
+    - Whiff Punishing: Walking in and out or just waiting to punish an attack; Beats covering
+    - Think about burn knuckle in the context of this
 - **Sometimes taking your turn back means moving a bit and blocking, not just pressing a button**
 - **Be more mindful on offense:** After blockstrings (after drive rush, during oki, etc) be mindful of the options your opponent is selecting (say it out loud)
 - **Be more mindful on defense:** On wakeup, take note of opponent's offensive choice during and slightly after oki.
